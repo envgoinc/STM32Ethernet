@@ -64,7 +64,6 @@
  */
 #ifndef DEFAULT_ETHERNET_TIMER
   #define DEFAULT_ETHERNET_TIMER  TIM14
-  #warning "Default timer used to call ethernet scheduler at regular interval: TIM14"
 #endif
 
 /* Interrupt priority */
